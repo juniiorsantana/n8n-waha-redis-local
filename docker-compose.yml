@@ -1,10 +1,4 @@
-############################################
-# LEIA AQUI                                
-############################################
-# Criado por GUILHERME LAZAROTTO           
-# Youtube: www.youtube.com/@guilherme_laz  
-# Curso completo: www.curson8n.com.br      
-############################################
+version: '3.8'
 
 services:
   redis:
